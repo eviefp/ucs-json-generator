@@ -1,0 +1,2 @@
+msPerFrame: 20
+animationSeconds: 5
